@@ -1,0 +1,7 @@
+export const ADD_TODO = 'ADD_TODO'
+export const SET_CURRENT_USER = 'REMOVE_TODO'
+export const LOG_OUT = 'REMOVE_TODO'
+export const DELETE_PRODUCT = 'REMOVE_TODO'
+export const SEARCH_BOX = 'REMOVE_TODO'
+export const CART_DRAWER = 'REMOVE_TODO'
+export const ALL_PRODUCTS = 'REMOVE_TODO'
